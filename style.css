@@ -84,6 +84,7 @@ body {
     font-weight: 500;
     color: #00bcd4;
     margin-bottom: 0;
+    margin-top: 0;
 }
 .container .contactInfo .box .text p
 {
@@ -168,7 +169,7 @@ body {
     }
     .container
     {
-        flex-direction: column;
+    flex-direction: column-reverse;
     }
     .container .contactInfo
     {
